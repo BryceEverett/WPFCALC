@@ -1,0 +1,15 @@
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\obj\Debug\SuperBasicCalc.csproj.AssemblyReference.cache
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\obj\Debug\App.g.cs
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\obj\Debug\SuperBasicCalc_MarkupCompile.cache
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\bin\Debug\SuperBasicCalc.exe.config
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\bin\Debug\SuperBasicCalc.exe
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\bin\Debug\SuperBasicCalc.pdb
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\obj\Debug\MainWindow.g.cs
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\obj\Debug\SuperBasicCalc_MarkupCompile.lref
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\obj\Debug\MainWindow.baml
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\obj\Debug\SuperBasicCalc.g.resources
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\obj\Debug\SuperBasicCalc.Properties.Resources.resources
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\obj\Debug\SuperBasicCalc.csproj.GenerateResource.cache
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\obj\Debug\SuperBasicCalc.csproj.CoreCompileInputs.cache
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\obj\Debug\SuperBasicCalc.exe
+C:\Users\everett_bryce\source\repos\SuperBasicCalc\SuperBasicCalc\obj\Debug\SuperBasicCalc.pdb
